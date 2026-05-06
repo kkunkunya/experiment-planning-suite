@@ -1,0 +1,16 @@
+{
+  "name": "experiment-planning-suite-marketplace",
+  "metadata": {
+    "description": "Public marketplace entry for Experiment Planning Suite."
+  },
+  "owner": {
+    "name": "Kunkun"
+  },
+  "plugins": [
+    {
+      "name": "experiment-planning-suite",
+      "description": "P4 experiment planning toolkit: scan project materials, turn research claims into evidence chains, design baselines/ablations/figures, judge feasibility and paper level, and hand off detailed experiment tasks.",
+      "source": "./plugins/experiment-planning-suite"
+    }
+  ]
+}

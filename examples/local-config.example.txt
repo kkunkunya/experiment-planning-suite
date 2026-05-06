@@ -1,0 +1,6 @@
+# Copy this file into your own private local config location.
+# Do not commit real API keys, tokens, private endpoints, customer data, or generated experiment logs.
+
+PROJECT_ROOT=/path/to/your/research-project
+EXPERIMENT_PLAN_DIR=knowledge/experiment-plan
+LOCAL_AGENT_RUNTIME=codex-or-claude

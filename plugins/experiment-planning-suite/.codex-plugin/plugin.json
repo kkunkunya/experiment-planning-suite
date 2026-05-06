@@ -1,0 +1,9 @@
+{
+  "name": "experiment-planning-suite",
+  "version": "0.1.0",
+  "description": "Experiment planning toolkit for P4 academic research: turn claims into evidence chains, baseline/ablation plans, figure/table specs, feasibility salvage paths, and req-suite handoff tasks.",
+  "author": {
+    "name": "Kunkun"
+  },
+  "skills": "./skills/"
+}
