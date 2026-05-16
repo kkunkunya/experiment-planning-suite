@@ -1,5 +1,10 @@
 # Experiment Planning Suite
 
+## Portfolio positioning
+
+This is a portfolio-facing academic research Agent/Plugin project for experiment planning, claim-evidence mapping, baselines, ablations, and task handoff. It shows how research planning can be turned into reusable agent skills.
+
+
 Experiment Planning Suite is an agent plugin for turning early academic ideas, partial evidence, benchmark notes, and resource constraints into a concrete experiment plan.
 
 It is not an experiment runner. It helps an agent write a verifiable planning surface under `knowledge/experiment-plan/`, then hands execution planning to a task-ledger workflow such as `req-suite`.
